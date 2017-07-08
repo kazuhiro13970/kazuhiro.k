@@ -15,5 +15,5 @@ $dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
 if ($mysqli->connect_error) {
   error_log($mysqli->connect_error);
   exit;
-}
+} 
 ?>
