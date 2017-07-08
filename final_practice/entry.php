@@ -227,7 +227,7 @@ input[type="submit"]{
   <input type="submit" name="new_input"value="会員登録する">
 </form>
   <a href="login.php">ログインはこちら</a>
-  </div>
+  </div> 
   
   </body>
   </html>
