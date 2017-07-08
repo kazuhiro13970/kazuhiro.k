@@ -323,7 +323,7 @@ if(isset($_POST['buy'])){
         <div class='buy'><input type="submit" name='buy' value='購入する'></div>
       </form>
       <?php } ?>
-      <form method="POST">
+      <form method="POST"> 
         <div class='no'><input type="submit" name='all_delete' value='カート全てを削除する'></div>
       </form>
       <?php } ?>
