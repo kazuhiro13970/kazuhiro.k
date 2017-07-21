@@ -183,4 +183,4 @@ img.subtitle{
 <script src="merkmal.js"></script>
 
 </body>
-</head>
+</head> 
