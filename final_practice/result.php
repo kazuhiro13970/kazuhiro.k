@@ -225,7 +225,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
    <div class="rr">上記合計¥<?php print number_format($_POST['total']*1.08+100); ?>(tax、送料込)の購入が完了しました</div>
    <div class="logout"><a href="logout.php">ログアウトするにはこちらを押してください</a></div>
    <?php } ?>
-</body>
+</body> 
 </html>
 
 <?php //var_dump($user_id); 
