@@ -226,7 +226,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
    <div class="logout"><a href="logout.php">ログアウトするにはこちらを押してください</a></div>
    <?php } ?>
 </body> 
-</html>
+</html> 
 
 <?php //var_dump($user_id); 
 //var_dump($rows); 
