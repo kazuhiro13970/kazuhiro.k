@@ -242,4 +242,4 @@ $kazu=0;
      <div class="err">カートの中身はありません</div>
     <?php } ?>
 </body>
-</html>　
+</html>　 
