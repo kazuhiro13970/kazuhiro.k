@@ -143,7 +143,7 @@ $err_msg['db_connect'] = 'DBエラー：'.$e->getMessage();
   </div>
 
   </body>
-  </hatml>
+  </hatml> 
 
 <?php
 //var_dump($user_id);
