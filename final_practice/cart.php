@@ -327,7 +327,7 @@ if(isset($_POST['buy'])){
         <div class='no'><input type="submit" name='all_delete' value='カート全てを削除する'></div>
       </form>
       <?php } ?>
-</body> 
+</body>
 </html>
 <?php 
 //var_dump($product_id);
